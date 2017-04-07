@@ -48,7 +48,7 @@
 		"y": 0,
 		"pixelRatio": 1
 	},
-	"arrow-closed_11": {
+	"arrow-closed": {
 		"width": 15,
 		"height": 15,
 		"x": 105,
@@ -153,7 +153,7 @@
 		"y": 15,
 		"pixelRatio": 1
 	},
-	"buildin_11": {
+	"building_11": {
 		"width": 15,
 		"height": 15,
 		"x": 150,
@@ -167,7 +167,7 @@
 		"y": 15,
 		"pixelRatio": 1
 	},
-	"bu_11": {
+	"bus_11": {
 		"width": 15,
 		"height": 15,
 		"x": 0,
@@ -265,7 +265,7 @@
 		"y": 45,
 		"pixelRatio": 1
 	},
-	"cro_11": {
+	"cross_11": {
 		"width": 15,
 		"height": 15,
 		"x": 30,
@@ -297,13 +297,6 @@
 		"width": 15,
 		"height": 15,
 		"x": 90,
-		"y": 45,
-		"pixelRatio": 1
-	},
-	"desktop.ini_11": {
-		"width": 15,
-		"height": 15,
-		"x": 105,
 		"y": 45,
 		"pixelRatio": 1
 	},
@@ -482,7 +475,7 @@
 		"y": 75,
 		"pixelRatio": 1
 	},
-	"horse-ridin_11": {
+	"horse-riding_11": {
 		"width": 15,
 		"height": 15,
 		"x": 135,
@@ -559,14 +552,14 @@
 		"y": 90,
 		"pixelRatio": 1
 	},
-	"lodgin_11": {
+	"lodging_11": {
 		"width": 15,
 		"height": 15,
 		"x": 120,
 		"y": 90,
 		"pixelRatio": 1
 	},
-	"loggin_11": {
+	"logging_11": {
 		"width": 15,
 		"height": 15,
 		"x": 135,
@@ -643,7 +636,7 @@
 		"y": 105,
 		"pixelRatio": 1
 	},
-	"parkin_11": {
+	"parking_11": {
 		"width": 15,
 		"height": 15,
 		"x": 120,
@@ -741,7 +734,7 @@
 		"y": 120,
 		"pixelRatio": 1
 	},
-	"recyclin_11": {
+	"recycling_11": {
 		"width": 15,
 		"height": 15,
 		"x": 150,
@@ -825,7 +818,7 @@
 		"y": 135,
 		"pixelRatio": 1
 	},
-	"skiin_11": {
+	"skiing_11": {
 		"width": 15,
 		"height": 15,
 		"x": 150,
@@ -902,7 +895,7 @@
 		"y": 150,
 		"pixelRatio": 1
 	},
-	"swimmin_11": {
+	"swimming_11": {
 		"width": 15,
 		"height": 15,
 		"x": 135,
@@ -923,7 +916,7 @@
 		"y": 150,
 		"pixelRatio": 1
 	},
-	"tenni_11": {
+	"tennis_11": {
 		"width": 15,
 		"height": 15,
 		"x": 0,
@@ -1034,5 +1027,5 @@
 		"x": 45,
 		"y": 180,
 		"pixelRatio": 1
-	},
+	}
 }
