@@ -70,22 +70,22 @@
 		"pixelRatio": 1
 	},
 	"bakery_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 150,
 		"y": 0,
 		"pixelRatio": 1
 	},
 	"bank_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 165,
 		"y": 0,
 		"pixelRatio": 1
 	},
 	"bar_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 0,
 		"y": 15,
 		"pixelRatio": 1
@@ -119,8 +119,8 @@
 		"pixelRatio": 1
 	},
 	"beer_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 75,
 		"y": 15,
 		"pixelRatio": 1
@@ -168,15 +168,15 @@
 		"pixelRatio": 1
 	},
 	"bus_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 0,
 		"y": 30,
 		"pixelRatio": 1
 	},
 	"cafe_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 15,
 		"y": 30,
 		"pixelRatio": 1
@@ -189,8 +189,8 @@
 		"pixelRatio": 1
 	},
 	"car_11": {
-		"width": 15,
-		"height": 15,
+		"width": 11,
+		"height": 11,
 		"x": 45,
 		"y": 30,
 		"pixelRatio": 1
