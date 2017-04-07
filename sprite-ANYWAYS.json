@@ -48,11 +48,18 @@
 		"y": 0,
 		"pixelRatio": 1
 	},
-	"arrow-closed": {
-		"width": 11,
+	"arrow-oneway-yes": {
+		"width": 33,
 		"height": 11,
-		"x": 77,
-		"y": 0,
+		"x": 0,
+		"y": 110,
+		"pixelRatio": 1
+	},
+	"arrow-oneway-min1": {
+		"width": 33,
+		"height": 11,
+		"x": 33,
+		"y": 110,
 		"pixelRatio": 1
 	},
 	"art-gallery_11": {
@@ -1027,5 +1034,5 @@
 		"x": 121,
 		"y": 99,
 		"pixelRatio": 1
-	}
+	},
 }
