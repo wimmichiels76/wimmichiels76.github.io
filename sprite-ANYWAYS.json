@@ -49,17 +49,17 @@
 		"pixelRatio": 1
 	},
 	"arrow-oneway-yes": {
-		"width": 43,
+		"width": 77,
 		"height": 11,
 		"x": 0,
-		"y": 108,
+		"y": 110,
 		"pixelRatio": 1
 	},
 	"arrow-oneway-min1": {
-		"width": 43,
+		"width": 77,
 		"height": 11,
 		"x": 33,
-		"y": 108,
+		"y": 110,
 		"pixelRatio": 1
 	},
 	"art-gallery_11": {
